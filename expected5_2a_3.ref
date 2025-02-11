@@ -1,0 +1,12 @@
+X,Y,OBJECTID,SiteID,Address,Street,OnStreet,FromStreet,ToStreet,SideOfParcel,Site,Species,DiameterAtBreastHeight,GrowSpace,Trunks,Height,Width,TreeCategory,Area,Parks,BotanicalName,CommonName
+473546.1633,5364489.3221,4243,4161,2275,QUADRA ST,QUADRA ST,PEMBROKE ST,QUEENS AVE,N/A,8,Quercus garryana,106,Turf,1,24,20,Park Trees,North Park,CENTRAL PARK,Quercus garryana,Garry oak
+473559.4711,5364473.2418,4244,4162,2275,QUADRA ST,QUADRA ST,PEMBROKE ST,QUEENS AVE,N/A,10,Quercus garryana,94,Turf,1,20,20,Park Trees,North Park,CENTRAL PARK,Quercus garryana,Garry oak
+473628.4593,5364539.3351,4247,4178,2275,QUADRA ST,QUADRA ST,PEMBROKE ST,QUEENS AVE,N/A,28,Quercus garryana,98,Turf,1,20,20,Park Trees,North Park,CENTRAL PARK,Quercus garryana,Garry oak
+473688.6012,5364408.4594,5831,6293,2275,QUADRA ST,QUADRA ST,PEMBROKE ST,QUEENS AVE,N/A,42,Quercus garryana,133,Turf,1,26,24,Park Trees,North Park,CENTRAL PARK,Quercus garryana,Garry oak
+473455.5399,5363399.6638,5962,6549,975,QUADRA ST,QUADRA ST,ROCKLAND AVE,MEARES ST,N/A,22,Quercus garryana,108,Turf,1,22,28,Park Frontage Trees,Fairfield,PIONEER SQUARE,Quercus garryana,Garry oak
+473452.6762,5363344.5608,5973,6573,975,QUADRA ST,QUADRA ST,ROCKLAND AVE,MEARES ST,N/A,46,Quercus garryana,87,Turf,1,20,20,Park Trees,Fairfield,PIONEER SQUARE,Quercus garryana,Garry oak
+473438.2409,5363362.1267,5975,6575,975,QUADRA ST,QUADRA ST,ROCKLAND AVE,MEARES ST,N/A,48,Quercus garryana,111,Turf,1,18,14,Park Trees,Fairfield,PIONEER SQUARE,Quercus garryana,Garry oak
+473410.0658,5363353.4307,5977,6578,975,QUADRA ST,QUADRA ST,ROCKLAND AVE,MEARES ST,N/A,51,Quercus garryana,106,Turf,1,22,20,Park Trees,Fairfield,PIONEER SQUARE,Quercus garryana,Garry oak
+473390.5868,5363358.1266,5979,6581,975,QUADRA ST,QUADRA ST,ROCKLAND AVE,MEARES ST,N/A,54,Quercus garryana,116,Turf,1,20,18,Park Trees,Fairfield,PIONEER SQUARE,Quercus garryana,Garry oak
+473443.4585,5363338.2997,5986,6590,975,QUADRA ST,QUADRA ST,ROCKLAND AVE,MEARES ST,N/A,63,Quercus garryana,79,Turf,1,22,16,Park Trees,Fairfield,PIONEER SQUARE,Quercus garryana,Garry oak
+473527.7222,5364727.0092,11080,18851,2415,QUADRA ST,QUADRA ST,EMPRESS AVE,BAY ST,Front,1,Quercus garryana,89,Turf,1,16,18,Setback Trees,North Park,N/A,Quercus garryana,Garry oak
